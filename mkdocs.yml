@@ -9,7 +9,7 @@ theme:
 
 pages:
   - Home: index.md
-  - 'Purpose & Objective': purpose_and_objective.md
+  - Purpose & Objective: purpose_and_objective.md
   - Guide:
     - Licensing: guides/licensing/index.md
     - Copyright: guides/copyright/index.md

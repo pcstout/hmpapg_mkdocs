@@ -1,0 +1,109 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to HMPAPG\n\n\n...", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-hmpapg", 
+            "text": "", 
+            "title": "Welcome to HMPAPG"
+        }, 
+        {
+            "location": "/#_1", 
+            "text": "", 
+            "title": "..."
+        }, 
+        {
+            "location": "/purpose_and_objective/", 
+            "text": "Purpose and Objective\n\n\nWhy Public Good\n\n\nDesired Outcome\n\n\nProducts to Make Public Goods\n\n\nIntent", 
+            "title": "Purpose & Objective"
+        }, 
+        {
+            "location": "/purpose_and_objective/#purpose-and-objective", 
+            "text": "", 
+            "title": "Purpose and Objective"
+        }, 
+        {
+            "location": "/purpose_and_objective/#why-public-good", 
+            "text": "", 
+            "title": "Why Public Good"
+        }, 
+        {
+            "location": "/purpose_and_objective/#desired-outcome", 
+            "text": "", 
+            "title": "Desired Outcome"
+        }, 
+        {
+            "location": "/purpose_and_objective/#products-to-make-public-goods", 
+            "text": "", 
+            "title": "Products to Make Public Goods"
+        }, 
+        {
+            "location": "/purpose_and_objective/#intent", 
+            "text": "", 
+            "title": "Intent"
+        }, 
+        {
+            "location": "/guides/licensing/", 
+            "text": "Licensing\n\n\n...", 
+            "title": "Licensing"
+        }, 
+        {
+            "location": "/guides/licensing/#licensing", 
+            "text": "", 
+            "title": "Licensing"
+        }, 
+        {
+            "location": "/guides/licensing/#_1", 
+            "text": "", 
+            "title": "..."
+        }, 
+        {
+            "location": "/guides/copyright/", 
+            "text": "Copyright\n\n\n...", 
+            "title": "Copyright"
+        }, 
+        {
+            "location": "/guides/copyright/#copyright", 
+            "text": "", 
+            "title": "Copyright"
+        }, 
+        {
+            "location": "/guides/copyright/#_1", 
+            "text": "", 
+            "title": "..."
+        }, 
+        {
+            "location": "/guides/publishing/", 
+            "text": "Publishing\n\n\nConventions\n\n\nSee \nhere", 
+            "title": "Publishing"
+        }, 
+        {
+            "location": "/guides/publishing/#publishing", 
+            "text": "", 
+            "title": "Publishing"
+        }, 
+        {
+            "location": "/guides/publishing/#conventions", 
+            "text": "See  here", 
+            "title": "Conventions"
+        }, 
+        {
+            "location": "/guides/publishing/conventions/", 
+            "text": "Conventions\n\n\nCode", 
+            "title": "_Conventions"
+        }, 
+        {
+            "location": "/guides/publishing/conventions/#conventions", 
+            "text": "", 
+            "title": "Conventions"
+        }, 
+        {
+            "location": "/guides/publishing/conventions/#code", 
+            "text": "", 
+            "title": "Code"
+        }
+    ]
+}

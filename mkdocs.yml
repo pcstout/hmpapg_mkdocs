@@ -1,0 +1,17 @@
+site_name: HMPAPG
+
+docs_dir: source
+site_dir: docs
+
+theme:
+  name: mkdocs
+  custom_dir: theme_overrides
+
+pages:
+  - Home: index.md
+  - 'Purpose & Objective': purpose_and_objective.md
+  - Guide:
+    - Licensing: guides/licensing/index.md
+    - Copyright: guides/copyright/index.md
+    - Publishing: guides/publishing/index.md
+    - _Conventions: guides/publishing/conventions/index.md
